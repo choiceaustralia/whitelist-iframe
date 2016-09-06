@@ -1,4 +1,6 @@
-whitelist iframe
+[![Build Status](https://travis-ci.org/choiceaustralia/whitelist-iframe.svg?branch=tests)](https://travis-ci.org/choiceaustralia/whitelist-iframe)
+
+Whitelist iframe
 ================
 
 An example Discourse plugin for whitelisting iframe urls
