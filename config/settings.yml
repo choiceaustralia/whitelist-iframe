@@ -1,0 +1,4 @@
+plugins:
+  whitelist_iframe_plugin_enabled:
+    default: true
+    client: true
