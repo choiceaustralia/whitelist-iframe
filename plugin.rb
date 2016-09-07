@@ -1,6 +1,6 @@
 # name: Iframe Whitelist
-# version: 0.0.1
-# authors: scossar
+# version: 0.1.0
+# authors: scossar, rimian
 
 # whitelist raw iframes posted by users
 

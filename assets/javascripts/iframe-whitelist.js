@@ -1,4 +1,4 @@
-(function(enabled) {
+(function() {
   if (Discourse.dialect_deprecated) { return; }
 
   Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.freesound\.org\/embed\/sound\/iframe\/.+/i);
